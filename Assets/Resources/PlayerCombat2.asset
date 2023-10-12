@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff13904d391b2274eb08f8748798af4e, type: 3}
+  m_Name: PlayerCombat2
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  edges:
+  - PortName: OnTrigger
+    outputIdString: 00000000-0000-0000-0000-000000000000
+    inputIdString: 40febb15-aa06-481a-a918-429fe1950b5b
+  - PortName: False
+    outputIdString: 40febb15-aa06-481a-a918-429fe1950b5b
+    inputIdString: 703b7d3d-d316-44ab-9120-59f81a379b79
+  - PortName: True
+    outputIdString: 703b7d3d-d316-44ab-9120-59f81a379b79
+    inputIdString: 29433646-149d-4d46-a01e-4521cfa51e69

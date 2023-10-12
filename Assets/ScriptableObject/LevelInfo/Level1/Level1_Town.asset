@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5a7b14d12db424c9878e8676d8237b, type: 3}
+  m_Name: Level1_Town
+  m_EditorClassIdentifier: 
+  Data:
+    SceneName: 
+    LevelDifficulty: 0
+    LevelName: Town
+    BackgroundAudio: {fileID: 8300000, guid: 317687eb999df5e4eb0d8f04442fb484, type: 3}
+    BackgroundImage: {fileID: 21300000, guid: 7d45be07b6b472f47bd836d7c4e4072a, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efeb120c79f402c4dbac60b3655421b0, type: 3}
+  m_Name: Reaction
+  m_EditorClassIdentifier: 
+  Position: {x: 248, y: -101.60002}
+  _idString: 6f9025cc-0b46-4ce8-bf23-da23113d8cac
+  items: []
+  isActive: 0
+--- !u!114 &7411304480912811114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e048b4d3f9567343afc833ca9699ed7, type: 3}
+  m_Name: AttackReaction
+  m_EditorClassIdentifier: 
+  ActionData:
+    Velocity: {x: 0, y: 0}
+    Damage: 0
+    KnockBack: 0
+    IsStun: 0

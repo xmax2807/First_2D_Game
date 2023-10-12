@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86fd58b0068b6b0418d22af68267d253, type: 3}
+  m_Name: Item2
+  m_EditorClassIdentifier: 
+  ModalDatas:
+  - Title: Breakable Objects
+    Description: Some objects can be broken by hitting them with weapon.
+    Image: {fileID: 21300000, guid: 1129778b3e284604bbaea1b6882b36f6, type: 3}
+  - Title: Breakable Objects
+    Description: Some objects can be broken by hitting them with weapon.
+    Image: {fileID: 21300000, guid: ed14a40ec1634fc4880a31f37f54a58d, type: 3}

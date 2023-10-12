@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efeb120c79f402c4dbac60b3655421b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Position: {x: 910.5326, y: 828.32935}
+  _idString: 05bca9eb-16d1-4b26-ab7b-f951867b6773
+  items:
+  - {fileID: 7411260389795733761}
+  isActive: 0
+--- !u!114 &7411260389795733761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e048b4d3f9567343afc833ca9699ed7, type: 3}
+  m_Name: AttackReaction
+  m_EditorClassIdentifier: 
+  ActionData:
+    Velocity: {x: 0, y: -20}
+    Damage: 20
+    KnockBack: 10
+    IsStun: 0
+  _name: helm breaker
